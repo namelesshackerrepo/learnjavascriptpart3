@@ -1,4 +1,4 @@
-#Learn Java Script Part 3
+# Learn Java Script Part 3
 
 Clone, and I suggest using live-server.  
 
