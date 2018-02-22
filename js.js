@@ -14,6 +14,7 @@ document.getElementById('submit').addEventListener('click', function() {
   //selected emotion to print to the div.  You must write
   //either a for loop or a while loop that will print 
   //according to the number entered in the input box
+  //if you need help, you can ask on namelesshacker.com
   display.innerHTML += level;
 
 });
